@@ -26,4 +26,3 @@
 ### npm run dev
 ### See on https://kapilaklecha.netlify.app/
 
->>>>>>> 21f91fd7caf4903a3a203ecc4376dc7270d1da2e

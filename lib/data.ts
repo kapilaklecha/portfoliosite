@@ -46,9 +46,9 @@ export const experiencesData = [
     title: "Front-End Developer",
     location: "Indore, MP",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "I working as a front-end developer for 1 year on self projects. I also upskilling to the full stack.",
     icon: React.createElement(CgWorkAlt),
-    date: "2021 - present",
+    date: "2022 - present",
   },
   {
     title: "Front-End Developer",
@@ -76,10 +76,10 @@ export const projectsData = [
     imageUrl: rmtdevImg,
   },
   {
-    title: "Portfolios Site",
+    title: "Portfolio Site",
     description:
       "You can already the the project. The site you are on is my portfolio site.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["React", "Next.js", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
